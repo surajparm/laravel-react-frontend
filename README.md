@@ -4,7 +4,7 @@
 
 Clone Repository via Git:
 
-    git clone https://github.com/Vishwaas-S/laravel-react-frontend.git
+    git clone https://github.com/surajparm/laravel-react-frontend
 
     cd laravel-react-frontend
 
